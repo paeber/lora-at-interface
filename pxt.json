@@ -1,6 +1,6 @@
 {
     "name": "LoRa-AT-Interface",
-    "description": "",
+    "description": "micro:bit extension to control the IoT-Cube",
     "dependencies": {
         "core": "*",
         "radio": "*",
@@ -11,7 +11,9 @@
         "README.md",
         "enums.ts",
         "enums_mcp.ts",
-        "port_expander.ts"
+        "port_expander.ts",
+        "_locales/de/LoRa-AT-Interface-strings.json",
+        "_locales/de/LoRa-AT-Interface-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"

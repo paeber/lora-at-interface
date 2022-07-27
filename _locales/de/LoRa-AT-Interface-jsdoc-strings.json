@@ -1,0 +1,6 @@
+{
+  "LoRa": "RAK3172 LoRa Module\r\nGBS St. Gallen, 2022",
+  "LoRa.OTAA_Setup": "Abläufe",
+  "LoRa.getCayenneLPPBuffer": "Nachricht CayenneLPP",
+  "LoRa.setStatus": "Hardwaresteuerung"
+}
