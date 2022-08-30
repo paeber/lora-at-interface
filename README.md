@@ -28,4 +28,13 @@ Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 #### Metadaten (verwendet für Suche, Rendering)
 
 * for PXT/microbit
+
+## ~button /docs/blocks
+
+Weiter: Blöcke
+
+## ~
+
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
